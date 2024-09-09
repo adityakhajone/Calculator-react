@@ -1,0 +1,16 @@
+.cal-container {
+  border: 1px solid rgb(142, 134, 134);
+  height: 370px;
+  width: 250px;
+  background-color: rgb(187, 218, 208);
+  border-radius: 10px;
+}
+
+.but-container {
+  border: 1px solid rgb(112, 124, 112);
+  height: 250px;
+  width: 223px;
+  margin-top: 5px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+}

@@ -1,0 +1,14 @@
+.back {
+  margin: 10px;
+  background-image: url("back.png");
+  contain: cover;
+  background-color: rgb(201, 165, 203);
+  height: 450px;
+}
+.back h1 {
+  font-size: 35px;
+  font-family: "algerian";
+  letter-spacing: 0.2ch;
+  color: #6b71ff;
+  text-shadow: 2px 2px #000000, 4px 5px #bc4785;
+}
