@@ -14,6 +14,7 @@ const Buttons = ({ onButtonClick }) => {
     "8",
     "9",
     "/",
+    "*",
     ".",
     "0",
     "=",
